@@ -1,0 +1,3 @@
+# ignore output
+zig-out/
+.zig-cache/
